@@ -1,4 +1,3 @@
-## Setup environment to run problem set examples:
 # Create a new environment named 'finsignal' with Python 3.10
 conda create -n finsignal python=3.10
 
